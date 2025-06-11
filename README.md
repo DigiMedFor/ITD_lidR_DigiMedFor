@@ -1,0 +1,2 @@
+This work was supported by the DigimedFor project, Horizon Europe, Grant Agreement No. 101084163. The DigiMedFor project is funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Executive Agency. Neither the European Union nor the granting authority can be held responsible for them. 
+https://digimedfor.eu/
